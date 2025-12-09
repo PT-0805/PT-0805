@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PT-0805
 - 👀 I’m interested in AI & Data Science
-- 🌱 I’m currently learning Diploma in Computer Engineering
+- 🌱 I’m currently learning B.E in Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me PT-0805
 - 😄 Pronouns: ...
